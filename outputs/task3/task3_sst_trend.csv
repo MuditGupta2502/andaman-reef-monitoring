@@ -1,0 +1,8 @@
+site,group,slope_per_decade,r2,p
+Seychelles Africa,Global,0.134,0.004,0.302
+ANI (mean),ANI,0.173,0.019,0.0297
+GBR Australia,Global,0.291,0.01,0.1062
+Hawaii USA,Global,0.295,0.028,0.0081
+RedSea MiddleEast,Global,0.369,0.012,0.0863
+Florida USA,Global,0.627,0.021,0.0216
+Mediterranean Europe,Global,0.659,0.012,0.089

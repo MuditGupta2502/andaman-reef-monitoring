@@ -1,0 +1,7 @@
+label,site,peak_dhw,mean_dhw,months_above_warning,months_above_alert1
+Florida_USA,Florida USA,11.08,0.37,5,2
+GBR_Australia,GBR Australia,6.58,0.6,12,0
+Hawaii_USA,Hawaii USA,11.74,0.59,12,5
+Mediterranean_Europe,Mediterranean Europe,8.34,0.32,3,1
+RedSea_MiddleEast,RedSea MiddleEast,10.42,0.45,7,3
+Seychelles_Africa,Seychelles Africa,5.29,0.22,2,0
